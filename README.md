@@ -1,7 +1,7 @@
 # Turing Machine Simulator
 Simulating the execution of Turing Machine
 
-In this programming assignment, you will develop a Python program to simulate the execution of Turing Machines ([Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)).
+In this programming assignment, I developed a Python program to simulate the execution of Turing Machines ([Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)).
 
 A Turing Machine consists of an infinite "tape" or "memory" made up of individual cells lined up next to each other and extending in both directions. Each cell is capable of "storing/recording" one symbol (we shall use a single letter such as 'a', 'b', ...) and if a cell is not occupied, we can visualize a "#" in that cell (referred to as a blank cell!).
 
