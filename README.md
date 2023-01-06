@@ -21,6 +21,12 @@ The operation of a Turing Machine begins with an initial tape content specified 
 
 After that, the Turing Machine continues to operate according to the instructions/program in the specifications. The instruction is chosen based on the "current" state and the symbol under the Read/Write head.
 
+Some sample Turing Machine specifications:
+
+equal.tm
+anbnan.tm
+mul.tm
+
 ---
 <pre>
 Sample runs of the program are shown below:
