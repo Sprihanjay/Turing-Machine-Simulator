@@ -1,7 +1,5 @@
-# Turing-Machine-Simulator
+# Turing Machine Simulator
 Simulating the execution of Turing Machine
-
-#### Turing Machine
 
 In this programming assignment, you will develop a Python program to simulate the execution of Turing Machines ([Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)).
 
